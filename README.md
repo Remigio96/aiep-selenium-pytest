@@ -2,6 +2,11 @@
 
 Este proyecto implementa pruebas automatizadas con **Selenium** y **pytest** para validar el correcto funcionamiento del sitio web institucional de AIEP.
 
+## Live Preview
+
+<img width="1351" height="721" alt="image" src="https://github.com/user-attachments/assets/ab8240c4-feb1-4649-8e89-20a7fef6df38" />
+https://www.youtube.com/watch?v=nf1WE9tTfh0 👈
+
 ## Objetivo
 
 El propósito principal es garantizar que las funcionalidades críticas de la página se mantengan estables:
